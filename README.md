@@ -1,0 +1,1 @@
+# update-every-element-by-multiplication-of-next-and-previous-values
